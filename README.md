@@ -76,7 +76,7 @@ Scheduler running...
 
 ## 📬 Postman Collection
 
-You can test the API using this [Postman Collection](https://.postman.co/workspace/My-Workspace~60177286-b157-4b33-86b5-f812448a2899/collection/36430452-7c0bb31d-28e8-44e9-bc26-a416c81608c4?action=share&creator=36430452).
+You can test the API using this [Postman Collection](https://www.postman.com/luckyy15/workspace/anurag-workplace/collection/36430452-7c0bb31d-28e8-44e9-bc26-a416c81608c4?action=share&creator=36430452).
 
 Import it into Postman and run the endpoints as shown.
 
