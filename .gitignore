@@ -1,0 +1,26 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# pytest cache
+.pytest_cache/
+
+# Virtual Environment
+venv/
+Venv/
+ENV/
+env/
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Logs or debug output
+*.log
+
+# Compiled objects
+*.so
+*.pyd
+

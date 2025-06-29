@@ -1,0 +1,18 @@
+[
+  {
+    "id": "c8dae1b5-8d7c-48b2-a648-eae9895a4af1",
+    "title": "Test Event",
+    "description": "First event created",
+    "start_time": "2025-06-29T17:00:00",
+    "end_time": "2025-07-01T11:18:00",
+    "recurrence": "daily"
+  },
+  {
+    "id": "e0fd78d3-ea20-4fca-a69a-b64ef94279ab",
+    "title": "Test Event",
+    "description": "Second test event created",
+    "start_time": "2025-06-29T17:00:00",
+    "end_time": "2025-07-01T11:18:00",
+    "recurrence": "daily"
+  }
+]
